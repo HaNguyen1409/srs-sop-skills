@@ -1,0 +1,166 @@
+{
+  "version": "1.0.0",
+  "skills": [
+    {
+      "name": "srs-ag01-transcript-summary",
+      "version": "2.0.0",
+      "node_id": "AG-01",
+      "kind": "agent",
+      "repository": "https://github.com/HaNguyen1409/srs-ag01-transcript-summary"
+    },
+    {
+      "name": "srs-ag02-requirement-extraction",
+      "version": "2.3.0",
+      "node_id": "AG-02",
+      "kind": "agent",
+      "repository": "https://github.com/HaNguyen1409/srs-ag02-requirement-extraction"
+    },
+    {
+      "name": "srs-ag03-gap-analysis",
+      "version": "2.2.1",
+      "node_id": "AG-03",
+      "kind": "agent",
+      "repository": "https://github.com/HaNguyen1409/srs-ag03-gap-analysis"
+    },
+    {
+      "name": "srs-ag04-competitor-research",
+      "version": "2.0.0",
+      "node_id": "AG-04",
+      "kind": "agent",
+      "repository": "https://github.com/HaNguyen1409/srs-ag04-competitor-research"
+    },
+    {
+      "name": "srs-ag05-feature-matrix",
+      "version": "2.0.0",
+      "node_id": "AG-05",
+      "kind": "agent",
+      "repository": "https://github.com/HaNguyen1409/srs-ag05-feature-matrix"
+    },
+    {
+      "name": "srs-ag06-business-model",
+      "version": "1.4.2",
+      "node_id": "AG-06",
+      "kind": "agent",
+      "repository": "https://github.com/HaNguyen1409/srs-ag06-business-model"
+    },
+    {
+      "name": "srs-ag07-screen-flow-design",
+      "version": "1.0.0",
+      "node_id": "AG-07",
+      "kind": "agent",
+      "repository": "https://github.com/HaNguyen1409/srs-ag07-screen-flow-design"
+    },
+    {
+      "name": "srs-ag08-prototype-builder",
+      "version": "1.1.0",
+      "node_id": "AG-08",
+      "kind": "agent",
+      "repository": "https://github.com/HaNguyen1409/srs-ag08-prototype-builder"
+    },
+    {
+      "name": "srs-ag09-demo-feedback-triage",
+      "version": "1.0.0",
+      "node_id": "AG-09",
+      "kind": "agent",
+      "repository": "https://github.com/HaNguyen1409/srs-ag09-demo-feedback-triage"
+    },
+    {
+      "name": "srs-ag10-functional-spec",
+      "version": "1.0.0",
+      "node_id": "AG-10",
+      "kind": "agent",
+      "repository": "https://github.com/HaNguyen1409/srs-ag10-functional-spec"
+    },
+    {
+      "name": "srs-ag11-nfr-spec",
+      "version": "1.0.0",
+      "node_id": "AG-11",
+      "kind": "agent",
+      "repository": "https://github.com/HaNguyen1409/srs-ag11-nfr-spec"
+    },
+    {
+      "name": "srs-ag12-semantic-review",
+      "version": "1.1.0",
+      "node_id": "AG-12",
+      "kind": "agent",
+      "repository": "https://github.com/HaNguyen1409/srs-ag12-semantic-review"
+    },
+    {
+      "name": "srs-ag13-architecture-design",
+      "version": "1.0.0",
+      "node_id": "AG-13",
+      "kind": "agent",
+      "repository": "https://github.com/HaNguyen1409/srs-ag13-architecture-design"
+    },
+    {
+      "name": "srs-ag14-data-design",
+      "version": "1.0.0",
+      "node_id": "AG-14",
+      "kind": "agent",
+      "repository": "https://github.com/HaNguyen1409/srs-ag14-data-design"
+    },
+    {
+      "name": "srs-ag15-api-interface-design",
+      "version": "1.0.0",
+      "node_id": "AG-15",
+      "kind": "agent",
+      "repository": "https://github.com/HaNguyen1409/srs-ag15-api-interface-design"
+    },
+    {
+      "name": "srs-ag16-security-design",
+      "version": "1.0.0",
+      "node_id": "AG-16",
+      "kind": "agent",
+      "repository": "https://github.com/HaNguyen1409/srs-ag16-security-design"
+    },
+    {
+      "name": "srs-agbp-bpmn-process",
+      "version": "1.2.0",
+      "node_id": "AG-BP",
+      "kind": "agent+code",
+      "repository": "https://github.com/HaNguyen1409/srs-agbp-bpmn-process"
+    },
+    {
+      "name": "srs-agmt-functional-matrix",
+      "version": "1.1.0",
+      "node_id": "AG-MT",
+      "kind": "agent",
+      "repository": "https://github.com/HaNguyen1409/srs-agmt-functional-matrix"
+    },
+    {
+      "name": "srs-agtq-project-overview",
+      "version": "1.1.0",
+      "node_id": "AG-TQ",
+      "kind": "agent",
+      "repository": "https://github.com/HaNguyen1409/srs-agtq-project-overview"
+    },
+    {
+      "name": "srs-agui-ui-design-system",
+      "version": "1.2.0",
+      "node_id": "AG-UI",
+      "kind": "agent+code",
+      "repository": "https://github.com/HaNguyen1409/srs-agui-ui-design-system"
+    },
+    {
+      "name": "srs-agyc-requirements-document",
+      "version": "1.2.0",
+      "node_id": "AG-YC",
+      "kind": "agent",
+      "repository": "https://github.com/HaNguyen1409/srs-agyc-requirements-document"
+    },
+    {
+      "name": "srs-notify-mail",
+      "version": "1.0.0",
+      "node_id": "AG-NOTIFY",
+      "kind": "service",
+      "repository": "https://github.com/HaNguyen1409/srs-notify-mail"
+    },
+    {
+      "name": "srs-sop-pipeline",
+      "version": "1.0.0",
+      "node_id": "ORCHESTRATOR",
+      "kind": "orchestrator",
+      "repository": "https://github.com/HaNguyen1409/srs-sop-pipeline"
+    }
+  ]
+}
