@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "skills": [
     {
       "name": "srs-ag01-transcript-summary",
@@ -38,7 +38,7 @@
     },
     {
       "name": "srs-ag06-business-model",
-      "version": "1.4.2",
+      "version": "1.5.0",
       "node_id": "AG-06",
       "kind": "agent",
       "repository": "https://github.com/HaNguyen1409/srs-ag06-business-model"
@@ -115,21 +115,21 @@
     },
     {
       "name": "srs-agbp-bpmn-process",
-      "version": "1.2.0",
+      "version": "1.3.0",
       "node_id": "AG-BP",
       "kind": "agent+code",
       "repository": "https://github.com/HaNguyen1409/srs-agbp-bpmn-process"
     },
     {
       "name": "srs-agmt-functional-matrix",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "node_id": "AG-MT",
       "kind": "agent",
       "repository": "https://github.com/HaNguyen1409/srs-agmt-functional-matrix"
     },
     {
       "name": "srs-agtq-project-overview",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "node_id": "AG-TQ",
       "kind": "agent",
       "repository": "https://github.com/HaNguyen1409/srs-agtq-project-overview"

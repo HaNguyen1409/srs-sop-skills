@@ -4,7 +4,7 @@ Danh mục và bộ cài các skill SOP viết SRS & thiết kế (tiếng Việ
 
 > Vietnamese-language Claude skills for an SRS-writing SOP. Each skill lives in its own versioned repo; this repo pins a compatible set.
 
-Bộ khoá hiện tại: **v1.0.0** — [`skills.lock.json`](skills.lock.json).
+Bộ khoá hiện tại: **v1.1.0** — [`skills.lock.json`](skills.lock.json).
 
 | Skill | Mã | Bước SOP | Loại | Phiên bản |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ Bộ khoá hiện tại: **v1.0.0** — [`skills.lock.json`](skills.lock.json).
 | [`srs-ag03-gap-analysis`](https://github.com/HaNguyen1409/srs-ag03-gap-analysis) | AG-03 | B6 | Agent Node | `2.2.1` |
 | [`srs-ag04-competitor-research`](https://github.com/HaNguyen1409/srs-ag04-competitor-research) | AG-04 | B7 | Agent Node | `2.0.0` |
 | [`srs-ag05-feature-matrix`](https://github.com/HaNguyen1409/srs-ag05-feature-matrix) | AG-05 | B8 | Agent Node | `2.0.0` |
-| [`srs-ag06-business-model`](https://github.com/HaNguyen1409/srs-ag06-business-model) | AG-06 | B9 | Agent Node | `1.4.2` |
+| [`srs-ag06-business-model`](https://github.com/HaNguyen1409/srs-ag06-business-model) | AG-06 | B9 | Agent Node | `1.5.0` |
 | [`srs-ag07-screen-flow-design`](https://github.com/HaNguyen1409/srs-ag07-screen-flow-design) | AG-07 | B12 | Agent Node | `1.0.0` |
 | [`srs-ag08-prototype-builder`](https://github.com/HaNguyen1409/srs-ag08-prototype-builder) | AG-08 | B13 | Agent Node | `1.1.0` |
 | [`srs-ag09-demo-feedback-triage`](https://github.com/HaNguyen1409/srs-ag09-demo-feedback-triage) | AG-09 | B17 | Agent Node | `1.0.0` |
@@ -24,9 +24,9 @@ Bộ khoá hiện tại: **v1.0.0** — [`skills.lock.json`](skills.lock.json).
 | [`srs-ag14-data-design`](https://github.com/HaNguyen1409/srs-ag14-data-design) | AG-14 | B11, B18, B27 | Agent Node | `1.0.0` |
 | [`srs-ag15-api-interface-design`](https://github.com/HaNguyen1409/srs-ag15-api-interface-design) | AG-15 | B28 | Agent Node | `1.0.0` |
 | [`srs-ag16-security-design`](https://github.com/HaNguyen1409/srs-ag16-security-design) | AG-16 | B29 | Agent Node | `1.0.0` |
-| [`srs-agbp-bpmn-process`](https://github.com/HaNguyen1409/srs-agbp-bpmn-process) | AG-BP | B9a | Agent + Code Node | `1.2.0` |
-| [`srs-agmt-functional-matrix`](https://github.com/HaNguyen1409/srs-agmt-functional-matrix) | AG-MT | B5a | Agent Node | `1.1.0` |
-| [`srs-agtq-project-overview`](https://github.com/HaNguyen1409/srs-agtq-project-overview) | AG-TQ | B8a | Agent Node | `1.1.0` |
+| [`srs-agbp-bpmn-process`](https://github.com/HaNguyen1409/srs-agbp-bpmn-process) | AG-BP | B9a | Agent + Code Node | `1.3.0` |
+| [`srs-agmt-functional-matrix`](https://github.com/HaNguyen1409/srs-agmt-functional-matrix) | AG-MT | B5a | Agent Node | `1.2.0` |
+| [`srs-agtq-project-overview`](https://github.com/HaNguyen1409/srs-agtq-project-overview) | AG-TQ | B8a | Agent Node | `1.2.0` |
 | [`srs-agui-ui-design-system`](https://github.com/HaNguyen1409/srs-agui-ui-design-system) | AG-UI | B12a, B13a | Agent + Code Node | `1.2.0` |
 | [`srs-agyc-requirements-document`](https://github.com/HaNguyen1409/srs-agyc-requirements-document) | AG-YC | B6a | Agent Node | `1.2.0` |
 | [`srs-notify-mail`](https://github.com/HaNguyen1409/srs-notify-mail) | AG-NOTIFY | — | Node dịch vụ | `1.0.0` |
